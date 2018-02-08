@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ASUS/CLionProjects/TareaLib2/Cuenta.cpp
+Cuenta.h
+C:/Users/ASUS/CLionProjects/TareaLib2/Cuenta.h
+iostream
+-
+
+C:/Users/ASUS/CLionProjects/TareaLib2/Cuenta.h
+
+C:/Users/ASUS/CLionProjects/TareaLib2/Factura.cpp
+Factura.h
+C:/Users/ASUS/CLionProjects/TareaLib2/Factura.h
+iostream
+-
+
+C:/Users/ASUS/CLionProjects/TareaLib2/Factura.h
+iostream
+-
+
+C:/Users/ASUS/CLionProjects/TareaLib2/Fecha.cpp
+Fecha.h
+C:/Users/ASUS/CLionProjects/TareaLib2/Fecha.h
+iostream
+-
+
+C:/Users/ASUS/CLionProjects/TareaLib2/Fecha.h
+
+C:/Users/ASUS/CLionProjects/TareaLib2/main.cpp
+iostream
+-
+Cuenta.h
+C:/Users/ASUS/CLionProjects/TareaLib2/Cuenta.h
+Factura.h
+C:/Users/ASUS/CLionProjects/TareaLib2/Factura.h
+Fecha.h
+C:/Users/ASUS/CLionProjects/TareaLib2/Fecha.h
+
